@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Soumik Ghosh"
-  avatar           : "Photo.JPG"
-  bio              : "Ph.D. student in Computer Science at the University of Chicago"
+  avatar           : "profile.png"
+  bio              : "Ph.D. student in Computer Science | University of Chicago"
   location         : "Chicago, Illinois, USA"
   employer         : "University of Chicago"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
