@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chiranjib Saha / Home"
+title                    : "Soumik Ghosh / Home"
 title_separator          : "-"
-name                     : &name "Chiranjib Saha"
+name                     : &name "Soumik Ghosh"
 description              : &description "personal description"
 url                      : https://chiranjibsaha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chiranjibsaha/chiranjibsaha.github.io"
+repository               : "soumikghosh23/soumikghosh23.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,28 +79,28 @@ analytics:
 
 
 # Site Author
-author: 
-  name             : "Chiranjib Saha"
-  avatar           : "profile.png"
-  bio              : "3GPP Standards Engineer at Qualcomm | PhD in Wireless Communication"
-  location         : "Blacksburg, Virginia, USA"
-  employer         : "Qualcomm"
+author:
+  name             : "Soumik Ghosh"
+  avatar           : "Photo.JPG"
+  bio              : "Ph.D. student in Computer Science at the University of Chicago"
+  location         : "Chicago, Illinois, USA"
+  employer         : "University of Chicago"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=WDy6l08AAAAJ&view_op=list_works&sortby=pubdate"
-  linkedin         : "https://www.linkedin.com/in/chiranjibsaha/"
-  email            : "csaha@vt.edu"
-  researchgate     : "https://www.researchgate.net/profile/Chiranjib_Saha2"
+  googlescholar    : "https://scholar.google.com/citations?user=QP_WbloAAAAJ&hl=en"
+  linkedin         : "https://in.linkedin.com/in/soumik-ghosh-307498b7"
+  email            : "soumikghosh@uchicago.edu"
+  researchgate     : #"https://www.researchgate.net/scientific-contributions/Soumik-Ghosh-2131749748"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "chiranjibsaha"
+  flickr           : #"chiranjibsaha"
   facebook         :
   foursquare       :
-  github           : "chiranjibsaha"
+  github           : "soumikghosh23"
   google_plus      :
   keybase          :
-  instagram        : chiranjib_saha_
+  instagram        : #soumik375
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   orcid            : # "http://orcid.org/yourorcidurl"
