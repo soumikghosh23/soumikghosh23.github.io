@@ -9,52 +9,29 @@ redirect_from:
 ---
 
 ------
-I received the B.E. degree (Hons.) in electronics and telecommunication engineering from Jadavpur University, India, in 2015. I completed my M.S and PhD (dual degree) at [Virginia Tech](https://vt.edu/){:target="_blank"}, in [Bradley Department of Electrical and Computer Engineering](https://www.ece.vt.edu/){:target="_blank"}. I am presently a Senior Engineer at Qualcomm Technologies, working on standardization activities in 3GPP. I have held summer  internship positions at Samsung Reseach America, Plano, TX, USA, Nokia Bell Labs, Naperville, IL, USA, and the National University of Singapore. I was a recipient of the Wireless Fellowship awarded by [Wireless@VT](https://wireless.vt.edu/){:target="_blank"}, Virginia Tech, in 2015.
-
+I am a first year Ph.D. student in the [Computer Science](https://computerscience.uchicago.edu){:target="_blank"} department of the [University of Chicago](https://www.uchicago.edu){:target="_blank"}, supervised by [Professor William Fefferman](http://www.billfefferman.com){:target="_blank"}. I am affiliated with [EPiQC](https://www.epiqc.cs.uchicago.edu){:target="_blank"}, a multi-disciplinary collaboration on quantum computing led by the University of Chicago. Previously, from 2018 to 2020, I was a Master's student at the University of Waterloo, under the brilliant supervision of [Professor John Watrous](https://cs.uwaterloo.ca/~watrous/){:target="_blank"}. I was also a part of the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/){:target="_blank"}. In another life, I was an undergraduate at [Jadavpur University](http://www.jaduniv.edu.in){:target="_blank"}, India in the Department of Electronics and Telecommunication Engineering, from 2014 to 2018.
 ------
 
 ### Research Interests 
 
-1. Physical (PHY) layer communication.
-1. Stochastic Geometry
-1. Signal Processing
-1. Machine Learning
+I have broad interests in \textbf{quantum computing}. Specific topics that I am interested in include \textbf{quantum complexity theory}, \textbf{quantum algorithms}, \textbf{quantum information theory}, \textbf{quantum proof systems}, \textbf{quantum cryptography}, and the \textbf{theory of entanglement}. I am also interested in \textbf{algorithms}, \textbf{complexity theory}, and \textbf{theoretical computer science} more generally.
 
 -----
 
-### Photography
+### Outreach
 
-I also identify myself as an amateur photographer and camera enthusiast. You can check my small gallery by in [instagram](https://www.instagram.com/chiranjib_saha_/){:target="_blank"} and [flikr](https://www.flickr.com/photos/chiranjibsaha/with/49685475027/){:target="_blank"}. Please feel free to send a message in any social network platform or email if you are interested to discuss about photography.
+I am a part of ["bigyan"](https://bigyan.org.in){:target="_blank"}, a science outreach group that aims to popularize science in the Bengali language. Please feel free to message me on any social media platform or send me an email if you are interested in contributing to 'bigyan' or discussing science outreach more generally.
 
 
 News and Updates
 ------
 ### 2020
-- [Aug 2020] Joining Qualcomm Inc. as senior engineer.
-- [Aug 2020] Successfully defended PhD thesis. Link to [dissertation](https://vtechworks.lib.vt.edu/handle/10919/99835){:target="_blank"} and [slide](/files/slide_defense.pdf){:target="_blank"}.
-- [Aug 2020] Papers on [load analysis](https://ieeexplore.ieee.org/document/9079449){:target="_blank"} and [meta distribution](https://ieeexplore.ieee.org/document/9165207){:target="_blank"} of PCP-based general HetNet models appearing in IEEE Wireless Comm. Letters.
+- [Sep 2020] Joined the University of Chicago as a Ph.D. student in Computer Science. Awarded the Daniels Fellowship for being one of the strongest students of the incoming cohort.
+- [June 2020] Successfully defended Master's thesis. Link to [dissertation](https://uwspace.uwaterloo.ca/handle/10012/16056){:target="_blank"} and [slides](/files/slides.pdf){:target="_blank"}.
+- [Feb 2020] Paper on [one-turn quantum refereed games](https://arxiv.org/abs/2002.01509){:target="_blank"} out on arxiv.
 
 ### 2019
-- [Oct 2019] [Paper](https://arxiv.org/abs/1902.06300) on mm-wave IAB accepted in [IEEE JSAC special issue on mm-wave networking](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/millimeter-wave-networking){:target="_blank"}
-- [Jul 2019] Received the best intern poster award at Samsung Research America.
-- [May 2019] Joined [Samsung Research America](https://www.sra.samsung.com/){:target="_blank"} as summer intern.
-- [May 2019] Cleared PhD Preliminary Examination.
-- [Feb 2019] Submitted [paper](https://arxiv.org/abs/1902.06300){:target="_blank"} on load balancing in mm-wave IAB HetNets.
+- [Dec 2019] Awarded the [Ontario Graduate Fellowship](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/ontario-graduate-fellowships){:target="_blank"} and the [President's Graduate Fellowship](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship){:target="_blank"}..
 
 ### 2018
-- [Dec 2018]  Submitted [paper](https://arxiv.org/abs/1812.01830){:target="_blank"} on unified coverage analysis of HetNets. 
- - [Dec 2018]  [Paper](https://ieeexplore.ieee.org/abstract/document/8493520/){:target="_blank"} on mm-wave IAB  accepted in *IEEE Transactions on Wireless Communication*.
- - [Jun 2018]  Joined [Nokia Bell labs](https://www.bell-labs.com/){:target="_blank"} as summer intern.
- 
-### 2017
-- [Dec 2017]  [Paper](https://ieeexplore.ieee.org/document/8187697){:target="_blank"} accepted in *IEEE Transactions on Communications*.
- - [Feb 2017] Submitted invited [paper](http://ieeexplore.ieee.org/document/8023448/){:target="_blank"} on PCP-based HetNet modeling to [ITA, 2017](http://ita.ucsd.edu/workshop/17/?year=17).
-
-### 2016
-- [Dec 2016] [Paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7809177) accepted in *IEEE Transactions on Wireless Communication*.
- - [Dec 2016] Cleared PhD qualifying exam.
- - [Jan 2016] [Paper](https://ieeexplore.ieee.org/abstract/document/7511509/) accepted in [ICC, 2016](http://icc2016.ieee-icc.org/){:target="_blank"}.
-
-### 2015
-- [Aug 2015] Joined [Wireless@VT](https://wireless.vt.edu/){:target="_blank"} as a PhD student.
-
+- [Sep 2018] Joined the University of Waterloo as a Master's student in Computer Science.
