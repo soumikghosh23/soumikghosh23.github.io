@@ -29,7 +29,7 @@ News and Updates
 ### 2020
 - [Sep 2020] Joined the University of Chicago as a Ph.D. student in Computer Science. Awarded the Daniels Fellowship for being one of the strongest students of the incoming cohort.
 - [June 2020] Successfully defended Master's thesis. Link to [dissertation](https://uwspace.uwaterloo.ca/handle/10012/16056){:target="_blank"} and [slides](/files/slides.pdf){:target="_blank"}.
-- [Feb 2020] Paper on one-turn quantum refereed games uploaded on [arxiv](https://arxiv.org/abs/2002.01509){:target="_blank"}.
+- [Feb 2020] [Paper](https://arxiv.org/abs/2002.01509){:target="_blank"} on one-turn quantum refereed games uploaded on arxiv.
 
 ### 2019
 - [Dec 2019] Awarded the [Ontario Graduate Fellowship](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/ontario-graduate-fellowships){:target="_blank"} and the [President's Graduate Fellowship](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship){:target="_blank"}.
