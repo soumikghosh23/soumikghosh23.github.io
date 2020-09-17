@@ -20,7 +20,7 @@ I have broad interests in \textbf{quantum computing}. Specific topics that I am 
 
 ### Outreach
 
-I am a part of ["bigyan"](https://bigyan.org.in){:target="_blank"}, a science outreach group that aims to popularize science in the Bengali language. Please feel free to message me on any social media platform or send me an email if you are interested in contributing to 'bigyan' or discussing science outreach more generally.
+I am a part of ["bigyan"](https://bigyan.org.in){:target="_blank"}, a science outreach group that aims to popularize science in the Bengali language. Please feel free to message me on any social media platform or send me an email if you are interested in contributing to "bigyan" or discussing science outreach more generally.
 
 
 News and Updates
