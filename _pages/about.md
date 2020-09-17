@@ -32,7 +32,7 @@ News and Updates
 - [Feb 2020] Paper on one-turn quantum refereed games uploaded on [arxiv](https://arxiv.org/abs/2002.01509){:target="_blank"}.
 
 ### 2019
-- [Dec 2019] Awarded the [Ontario Graduate Fellowship](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/ontario-graduate-fellowships){:target="_blank"} and the [President's Graduate Fellowship](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship){:target="_blank"}..
+- [Dec 2019] Awarded the [Ontario Graduate Fellowship](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/ontario-graduate-fellowships){:target="_blank"} and the [President's Graduate Fellowship](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/current-students/internal-waterloo-awards/presidents-graduate-scholarship){:target="_blank"}.
 
 ### 2018
 - [Sep 2018] Joined the University of Waterloo as a Master's student in Computer Science.
