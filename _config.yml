@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. student in Computer Science | University of Chicago"
   location         : "Chicago, Illinois, USA"
-  employer         : "University of Chicago"
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QP_WbloAAAAJ&hl=en"
   linkedin         : "soumik-ghosh-307498b7"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : # "ghosh_quantum"
   vine             :
   weibo            :
   xing             :
