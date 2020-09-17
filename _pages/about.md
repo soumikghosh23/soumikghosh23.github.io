@@ -15,7 +15,7 @@ I am a first year Ph.D. student in [Computer Science](https://computerscience.uc
 
 ### Research Interests 
 
-I have broad interests in quantum computing. Specific topics that I am interested in include quantum complexity theory, quantum algorithms, quantum information theory, quantum proof systems, quantum cryptography, and the theory of entanglement. I am also interested in algorithms, complexity theory, and theoretical computer science more generally.
+I have broad interests in **quantum computing**. Specific topics that I am interested in include **quantum complexity theory**, **quantum algorithms**, **quantum information theory**, **quantum proof systems**, **quantum cryptography**, and the **theory of entanglement**. I am also interested in **algorithms**, **complexity theory**, and **theoretical computer science** more generally.
 
 -----
 
