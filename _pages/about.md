@@ -15,7 +15,7 @@ I am a first year Ph.D. student in [Computer Science](https://computerscience.uc
 
 ### Research Interests 
 
-I have broad interests in **quantum computing**. Specific topics that I am interested in include **quantum complexity theory**, **quantum algorithms**, and **quantum information theory**. I am also interested in **algorithms**, **complexity theory**, and **theoretical computer science** more generally.
+I have broad interests in **quantum computing**. Specific topics that I am interested in include **quantum complexity theory**, **quantum algorithms**, **quantum information theory**, and **quantum cryptography**. I am also interested in **algorithms**, **complexity theory**, and **theoretical computer science** more generally.
 
 -----
 
