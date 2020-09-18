@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soumik Ghosh / Home"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Soumik Ghosh"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://soumikghosh23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "soumikghosh23/soumikghosh23.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Soumik Ghosh"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Computer Science | University of Chicago"
-  location         : "Chicago, Illinois, USA"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=QP_WbloAAAAJ&hl=en"
-  linkedin         : "soumik-ghosh-307498b7"
-  email            : "soumikghosh@uchicago.edu"
-  researchgate     : #"https://www.researchgate.net/scientific-contributions/Soumik-Ghosh-2131749748"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : #"chiranjibsaha"
+  flickr           :
   facebook         :
   foursquare       :
-  github           : "soumikghosh23"
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : #soumik375
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ghosh_quantum"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
