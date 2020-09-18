@@ -2,11 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
-      
+
   - title: "Posts"
-    url: /year-archive/
-    
+    url: /posts/
+
   - title: "CV"
     url: /cv/
-    
-
