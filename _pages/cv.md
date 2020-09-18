@@ -32,6 +32,6 @@ Education
 Internships
 ======
 ---
-### [Information Sciences Institute](https://www.isi.edu){:target="_blank"}, Los Angeles, CA (Summer 2017)
+### [Information Sciences Institute](https://www.isi.edu){:target="_blank"}, University of Southern California, Los Angeles, CA (Summer 2017)
 * Summer intern under Professor Itay Hen.
  
