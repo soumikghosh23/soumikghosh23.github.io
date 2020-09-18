@@ -30,7 +30,7 @@ News and Updates
 ------
 ### 2020
 - <span style="color:#fa4d4d">[Sep 2020]</span> Joined the University of Chicago as a Ph.D. student in Computer Science. Awarded the Daniels Fellowship for being one of the strongest students of the incoming cohort.
-- <span style="color:#fa4d4d">[June 2020]</span> Successfully defended my Master's thesis. Link to [dissertation](https://uwspace.uwaterloo.ca/handle/10012/16056){:target="_blank"} and [slides](/files/slides.pdf){:target="_blank"}.
+- <span style="color:#fa4d4d">[June 2020]</span> Successfully defended my Master's thesis. Link to [dissertation](https://uwspace.uwaterloo.ca/handle/10012/16056){:target="_blank"} and [slides](/files/Slides.pdf){:target="_blank"}.
 - <span style="color:#fa4d4d">[Feb 2020]</span> [Paper](https://arxiv.org/abs/2002.01509){:target="_blank"} on one-turn quantum refereed games uploaded on arxiv.
 
 ### 2019
