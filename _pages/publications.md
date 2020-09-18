@@ -30,14 +30,11 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ---
 
-# <a name="Journals"></a>Journal Articles
+# <a name="Journals"></a>Journals
 
-### Before 2020
-
-[J1]  A. Adhikary, and **S. Ghosh**, "Scheme for implementing dichotomic quantum measurements through non-ideal Stern–Gerlach setup." In: **Quantum Studies: Mathematics and Foundations (Springer)**, pages 107-120, volume 6, issue 1, June 2018. [[PDF]](https://link.springer.com/article/10.1007/s40509-018-0168-8){:target="_blank"}.
+- A. Adhikary, and **S. Ghosh**, "Scheme for implementing dichotomic quantum measurements through non-ideal Stern–Gerlach setup." In: **Quantum Studies: Mathematics and Foundations (Springer)**, pages 107-120, volume 6, issue 1, June 2018. [[PDF]](https://link.springer.com/article/10.1007/s40509-018-0168-8){:target="_blank"}.
 
 ---
-
 
 ## <a name="dis"></a>Dissertation
 

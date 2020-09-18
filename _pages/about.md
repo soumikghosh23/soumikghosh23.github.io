@@ -13,6 +13,8 @@ I am a first year Ph.D. student in [Computer Science](https://computerscience.uc
 
 In another life, I was an undergraduate at [Jadavpur University](http://www.jaduniv.edu.in){:target="_blank"}, India in the Department of Electronics and Telecommunication Engineering, from 2014 to 2018.
 
+Here is my [curriculum vitae](/files/CV_Soumik.pdf).
+
 ------
 
 ### Research Interests 
