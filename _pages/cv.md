@@ -23,7 +23,7 @@ Education
 * M.Math in Computer Science 
     * Advisor: [John Watrous](https://cs.uwaterloo.ca/~watrous/){:target="_blank"}
     * Dissertation: [A study of one-turn quantum refereed games](https://uwspace.uwaterloo.ca/handle/10012/16056){:target="_blank"}
-    * Readers: John Watrous, Richard Cleve, David Gosset.
+    * Readers: [John Watrous](https://cs.uwaterloo.ca/~watrous/), [Richard Cleve](https://services.iqc.uwaterloo.ca/people/profile/cleve/), [David Gosset](http://www.davidgosset.com).
 
 ### [Jadavpur University](http://www.jaduniv.edu.in){:target="_blank"}, India (Fall 2014 - Spring 2018)
 * Bachelor of Engineering in Electronics and Telecommunication Engineering 
