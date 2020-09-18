@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-The PDF version of my resume can be found [here](../files/CV_Soumik.pdf){:target="_blank"}.
+The PDF version of my curriculum vitae can be found [here](../files/CV_Soumik.pdf){:target="_blank"}.
 
 Education
 ======
