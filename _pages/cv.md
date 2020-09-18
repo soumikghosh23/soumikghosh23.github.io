@@ -17,11 +17,11 @@ Education
 
 ### [University of Chicago](https://www.uchicago.edu), Chicago, Illinois (Fall 2020 - )
 * Ph.D. in Computer Science
-    * Advisor: Prof. [William Fefferman](http://www.billfefferman.com){:target="_blank"}
+    * Advisor: [William Fefferman](http://www.billfefferman.com){:target="_blank"}
     
 ### [University of Waterloo](https://uwaterloo.ca), Waterloo, Canada (Fall 2018 - Spring 2020)
 * M.Math in Computer Science 
-    * Advisor: Prof. [John Watrous](https://cs.uwaterloo.ca/~watrous/){:target="_blank"}
+    * Advisor: [John Watrous](https://cs.uwaterloo.ca/~watrous/){:target="_blank"}
     * Dissertation: [A study of one-turn quantum refereed games](https://uwspace.uwaterloo.ca/handle/10012/16056){:target="_blank"}
     * Readers: John Watrous, Richard Cleve, David Gosset.
 
