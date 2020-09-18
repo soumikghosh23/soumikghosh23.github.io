@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
- You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=QP_WbloAAAAJ&hl=en){:target="_blank"}.
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=QP_WbloAAAAJ&hl=en){:target="_blank"}.
 
 ---
 <div class="navbar">
@@ -22,8 +22,7 @@ author_profile: true
 
 ---
 
-# <a name="Preprints"></a>Journal Articles
-
+# <a name="Preprints"></a>Preprints
 
 ### 2020
 
