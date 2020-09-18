@@ -24,8 +24,6 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 # <a name="Preprints"></a>Preprints
 
-### 2020
-
 - **S. Ghosh**, and J. Watrous, "Complexity limitations on one-turn quantum refereed games." [[arXiv]](https://arxiv.org/pdf/2002.01509.pdf){:target="_blank"}
 
 ---
@@ -36,7 +34,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ---
 
-## <a name="dis"></a>Dissertation
+# <a name="dis"></a>Dissertation
 
 - S. Ghosh, “A study of one-turn quantum refereed games”, Master's Dissertation, University of Waterloo, 2020. [[PDF]](https://uwspace.uwaterloo.ca/handle/10012/16056){:target="_blank"} [[slides]](../files/Slides.pdf){:target="_blank"}
 
