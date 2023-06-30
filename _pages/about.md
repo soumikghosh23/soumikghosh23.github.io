@@ -23,7 +23,7 @@ Here is my [curriculum vitae](/files/CV.pdf).
 ### Research Interests 
 
 
-I have broad interests in **quantum computing**. Specific topics that I am interested in include **quantum complexity theory**, **quantum algorithms**, **near term quantum computation**, and **quantum cryptography**. I am also interested in **algorithms**, **complexity theory**, and **theoretical computer science** more generally.
+I have broad interests in **quantum computing**. Specific topics that I am interested in include **quantum complexity theory**, **quantum algorithms**, **near-term quantum computation**, and **quantum cryptography**. I am also interested in **algorithms**, **complexity theory**, and **theoretical computer science** more generally.
 
 -----
 
