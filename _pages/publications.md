@@ -24,6 +24,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 # <a name="Preprints"></a>Preprints
 
+- A. Gu, L. Leone, **S. Ghosh**, J. Eisert, S. Yelin, and Y. Quek, "Effect of non-unital noise on random circuit sampling." [[arXiv]](https://arxiv.org/pdf/2308.16228.pdf){:target="_blank"}
+
 - B. Fefferman, **S. Ghosh**, M. Gullans, K. Kuroiwa, and K. Sharma, "Effect of non-unital noise on random circuit sampling." [[arXiv]](https://arxiv.org/pdf/2306.16659.pdf){:target="_blank"}
 
 ---
