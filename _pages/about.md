@@ -16,7 +16,7 @@ Previously, from 2018 to 2020, I was a Master's student at the University of Wat
 
 In another life, I was an undergraduate at [Jadavpur University](http://www.jaduniv.edu.in){:target="_blank"}, India in the Department of Electronics and Telecommunication Engineering, from 2014 to 2018.
 
-My Erdős number is $3$.
+My Erdos number is $3$.
 
 Here is my [curriculum vitae](/files/CV.pdf).
 
