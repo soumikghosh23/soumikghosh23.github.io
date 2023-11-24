@@ -10,7 +10,7 @@ redirect_from:
 
 ------
 
-I am a third year Ph.D. student in [Computer Science](https://computerscience.uchicago.edu){:target="_blank"} at the [University of Chicago](https://www.uchicago.edu){:target="_blank"}, supervised by [William Fefferman](http://www.billfefferman.com){:target="_blank"}.
+I am a fourth year Ph.D. student in [Computer Science](https://computerscience.uchicago.edu){:target="_blank"} at the [University of Chicago](https://www.uchicago.edu){:target="_blank"}, supervised by [William Fefferman](http://www.billfefferman.com){:target="_blank"}.
 
 Previously, from 2018 to 2020, I was a Master's student at the University of Waterloo, under the brilliant supervision of [John Watrous](https://cs.uwaterloo.ca/~watrous/){:target="_blank"}. I was also a part of the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/){:target="_blank"} (IQC). 
 
@@ -40,6 +40,8 @@ News and Updates
 
 ### 2023
 - <span style="color:#fa4d4d">[Nov 2023]</span> [Paper](https://arxiv.org/pdf/2311.12017.pdf) on "Public-key pseudoentanglement and the hardness of learning ground state entanglement structure" and [paper](https://arxiv.org/pdf/2306.16659.pdf) accepted to <span style="color:#ff0000">**QIP 2024**</span>! 
+
+- <span style="color:#fa4d4d">[Nov 2023]</span> [Paper](https://arxiv.org/abs/2211.00747) on "Quantum Pseudoentanglement" accepted to <span style="color:#ff0000">**ITCS 2024**</span>! 
 
 - <span style="color:#fa4d4d">[Nov 2023]</span> [Paper](https://arxiv.org/pdf/2311.12017.pdf) on "Public-key pseudoentanglement and the hardness of learning ground state entanglement structure" out on <span style="color:#1434a4">arXiv</span>! 
 

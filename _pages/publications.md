@@ -28,13 +28,15 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - A. Gu, L. Leone, **S. Ghosh**, J. Eisert, S. Yelin, and Y. Quek, "A little magic means a lot." [[arXiv]](https://arxiv.org/pdf/2308.16228.pdf){:target="_blank"}
 
-- B. Fefferman, **S. Ghosh**, M. Gullans, K. Kuroiwa, and K. Sharma, "Effect of non-unital noise on random circuit sampling." [[arXiv]](https://arxiv.org/pdf/2306.16659.pdf){:target="_blank"}
-
 ---
 
 # <a name="Conferences"></a>Conferences
 
-- S. Aaronson, A. Bouland, B. Fefferman, **S. Ghosh**, U. Vazirani, C. Zhang, and Z. Zhou, "Quantum Pseudoentanglement." In: **QIP 2023**. [[PDF]](https://arxiv.org/pdf/2211.00747.pdf){:target="_blank"} [[Talk]](https://www.youtube.com/watch?v=4Nq_zzDg9go){:target="_blank"}
+- A. Bouland, B. Fefferman, **S. Ghosh**, T. Metger, U. Vazirani, C. Zhang, and Z. Zhou, "Public-key pseudoentanglement and the hardness of learning ground state entanglement structure." In: **QIP 2024**. [[PDF]](https://arxiv.org/pdf/2311.12017.pdf){:target="_blank"}
+
+- B. Fefferman, **S. Ghosh**, M. Gullans, K. Kuroiwa, and K. Sharma, "Effect of non-unital noise on random circuit sampling." In: **QIP 2024**. [[PDF]](https://arxiv.org/pdf/2306.16659.pdf){:target="_blank"}
+
+- S. Aaronson, A. Bouland, B. Fefferman, **S. Ghosh**, U. Vazirani, C. Zhang, and Z. Zhou, "Quantum Pseudoentanglement." In: **QIP 2023**, **ITCS 2024**. [[PDF]](https://arxiv.org/pdf/2211.00747.pdf){:target="_blank"} [[Talk]](https://www.youtube.com/watch?v=4Nq_zzDg9go){:target="_blank"}
 
 ---
 
