@@ -39,7 +39,7 @@ News and Updates
 ------
 
 ### 2023
-- <span style="color:#fa4d4d">[Nov 2023]</span> [Paper](https://arxiv.org/pdf/2311.12017.pdf) on "Public-key pseudoentanglement and the hardness of learning ground state entanglement structure" and [paper](https://arxiv.org/pdf/2306.16659.pdf) accepted to <span style="color:#ff0000">**QIP 2024**</span>! 
+- <span style="color:#fa4d4d">[Nov 2023]</span> [Paper](https://arxiv.org/pdf/2311.12017.pdf) on "Public-key pseudoentanglement and the hardness of learning ground state entanglement structure" and [paper](https://arxiv.org/pdf/2306.16659.pdf) on "Effect of non-unital noise on random circuit sampling" accepted to <span style="color:#ff0000">**QIP 2024**</span>! 
 
 - <span style="color:#fa4d4d">[Nov 2023]</span> [Paper](https://arxiv.org/abs/2211.00747) on "Quantum Pseudoentanglement" accepted to <span style="color:#ff0000">**ITCS 2024**</span>! 
 
