@@ -9,12 +9,27 @@
     {% include head.html %}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&amp;family=IBM+Plex+Serif:wght@500;600&amp;display=swap" rel="stylesheet">
     {% include head/custom.html %}
   </head>
 
   <body class="profile-site">
     {% include browser-upgrade.html %}
+
+    <a class="profile-skip-link" href="#main-content">Skip to content</a>
+
+    <nav class="profile-nav" aria-label="Page sections">
+      <div class="profile-nav__inner">
+        <a class="profile-nav__mark" href="#main-content" aria-label="Soumik Ghosh, back to top">SG</a>
+        <div class="profile-nav__links">
+          <a href="#main-content">About</a>
+          <a href="#selected-publications">Selected</a>
+          <a href="#all-papers">Papers</a>
+          <a href="#talks">Talks</a>
+          <a href="#service">Service</a>
+        </div>
+      </div>
+    </nav>
 
     <main class="profile-page" id="main-content">
       <article class="profile-page__inner" itemscope itemtype="https://schema.org/Person">
