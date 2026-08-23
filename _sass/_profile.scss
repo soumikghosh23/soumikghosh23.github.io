@@ -3,10 +3,20 @@
    ========================================================================== */
 
 body.profile-site {
+  --profile-background: #f7f5f0;
+  --profile-nav-background: #eaf0ea;
+  --profile-border: #c9d4cd;
+  --profile-text: #2d3230;
+  --profile-heading: #172b29;
+  --profile-link: #0b5d64;
+  --profile-visited: #6a3b5a;
+  --profile-accent: #8b3a2b;
+  --profile-muted: #5f6965;
+
   min-height: 100%;
   padding: 0;
-  color: #333;
-  background: #fdfdfd;
+  color: var(--profile-text);
+  background: var(--profile-background);
   font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 16px;
   font-weight: 300;
@@ -14,8 +24,8 @@ body.profile-site {
 }
 
 .profile-nav {
-  border-bottom: 1px solid #e5e5e5;
-  background: #fdfdfd;
+  border-bottom: 1px solid var(--profile-border);
+  background: var(--profile-nav-background);
 }
 
 .profile-nav__inner {
@@ -30,7 +40,7 @@ body.profile-site {
 
 .profile-nav a,
 .profile-nav a:visited {
-  color: #333;
+  color: var(--profile-text);
   font-size: 14px;
   font-weight: 400;
   text-decoration: none;
@@ -38,7 +48,7 @@ body.profile-site {
 
 .profile-nav a:hover,
 .profile-nav a:focus {
-  color: #0064c8;
+  color: var(--profile-accent);
   text-decoration: underline;
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.2em;
@@ -58,7 +68,7 @@ body.profile-site {
 .profile-page h1,
 .profile-page h2,
 .profile-page h3 {
-  color: #333;
+  color: var(--profile-heading);
   font-family: inherit;
   font-weight: 300;
   line-height: 1.5;
@@ -89,20 +99,26 @@ body.profile-site {
 }
 
 .profile-page a {
-  color: #0064c8;
+  color: var(--profile-link);
   text-decoration: underline;
   text-decoration-thickness: 0.06em;
   text-underline-offset: 0.12em;
 }
 
 .profile-page a:visited {
-  color: #003366;
+  color: var(--profile-visited);
 }
 
 .profile-page a:hover,
 .profile-page a:focus {
-  color: #333;
+  color: var(--profile-accent);
   text-decoration-thickness: 0.1em;
+}
+
+.profile-page a:focus-visible,
+.profile-nav a:focus-visible {
+  outline: 2px solid var(--profile-accent);
+  outline-offset: 3px;
 }
 
 .profile-page strong {
@@ -164,16 +180,16 @@ body.profile-site {
 
 .publication-title,
 .talk-title {
-  color: #222;
+  color: var(--profile-heading);
   font-weight: 400;
 }
 
 .publication-media {
-  color: #333;
+  color: var(--profile-text);
 }
 
 .publication-impact {
-  color: #8b1e1e;
+  color: var(--profile-accent);
   font-weight: 400;
 }
 
@@ -196,7 +212,7 @@ body.profile-site {
 }
 
 .talk-date {
-  color: #666;
+  color: var(--profile-muted);
   white-space: nowrap;
 }
 

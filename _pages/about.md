@@ -14,7 +14,7 @@ redirect_from:
 
   <p>I am jointly a <strong>Postdoctoral Researcher at MIT</strong> and a <strong>Visiting Scholar at UC Berkeley</strong>, hosted by <a href="https://people.eecs.berkeley.edu/~vazirani/">Umesh Vazirani</a>.</p>
 
-  <p>My research spans quantum computing, with a focus on quantum complexity theory, algorithms, near-term quantum computation, and quantum cryptography.</p>
+  <p>My research aims to use complexity theory to solve interesting problems in quantum physics and quantum computation.</p>
 
   <p class="profile-contact">Contact: <a href="mailto:soumik@mit.edu" itemprop="email">soumik@mit.edu</a>, <a href="mailto:soumikghosh@berkeley.edu">soumikghosh@berkeley.edu</a></p>
 
