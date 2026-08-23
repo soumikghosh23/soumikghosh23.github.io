@@ -1,0 +1,186 @@
+/* ==========================================================================
+   MINIMAL ACADEMIC PROFILE
+   ========================================================================== */
+
+body.profile-site {
+  min-height: 100%;
+  padding: 0;
+  color: #333;
+  background: #fdfdfd;
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+.profile-page {
+  padding: 30px 0 48px;
+}
+
+.profile-page__inner {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.profile-page h1,
+.profile-page h2,
+.profile-page h3 {
+  color: #333;
+  font-family: inherit;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+.profile-page h1 {
+  margin: 0 0 15px;
+  font-size: 1.75em;
+}
+
+.profile-page h2 {
+  margin: 0 0 15px;
+  padding: 0;
+  border: 0;
+  font-size: 1.4em;
+}
+
+.profile-page p,
+.profile-page ol,
+.profile-page ul {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.profile-page section {
+  margin-top: 30px;
+}
+
+.profile-page a {
+  color: #0064c8;
+  text-decoration: underline;
+  text-decoration-thickness: 0.06em;
+  text-underline-offset: 0.12em;
+}
+
+.profile-page a:visited {
+  color: #003366;
+}
+
+.profile-page a:hover,
+.profile-page a:focus {
+  color: #333;
+  text-decoration-thickness: 0.1em;
+}
+
+.profile-page strong {
+  font-weight: 400;
+}
+
+.profile-portrait {
+  float: right;
+  width: 210px;
+  height: 252px;
+  margin: 0 0 10px 20px;
+  object-fit: cover;
+  object-position: 35% center;
+}
+
+.profile-intro::after {
+  display: block;
+  clear: both;
+  content: "";
+}
+
+.profile-contact {
+  font-weight: 400;
+}
+
+.profile-links {
+  white-space: nowrap;
+}
+
+.publication-list {
+  margin-left: 30px;
+  padding-left: 0;
+}
+
+.publication-list > li {
+  margin-bottom: 15px;
+  padding-left: 2px;
+}
+
+.publication-list p {
+  margin: 0;
+}
+
+.publication-title,
+.publication-venue,
+.publication-links {
+  font-weight: 400;
+}
+
+.publication-title,
+.talk-title {
+  color: #222;
+  font-weight: 400;
+}
+
+.publication-media {
+  color: #333;
+}
+
+.publication-impact {
+  color: #8b1e1e;
+  font-weight: 400;
+}
+
+.talk-list {
+  margin-left: 30px;
+  padding-left: 0;
+}
+
+.talk-list > li {
+  margin-bottom: 15px;
+  padding-left: 2px;
+}
+
+.talk-list p {
+  margin: 0;
+}
+
+.talk-links {
+  font-weight: 400;
+}
+
+.talk-date {
+  color: #666;
+  white-space: nowrap;
+}
+
+@media (max-width: 800px) {
+  .profile-page__inner {
+    padding: 0 15px;
+  }
+}
+
+@media (max-width: 560px) {
+  .profile-page {
+    padding-top: 20px;
+  }
+
+  .profile-portrait {
+    float: none;
+    display: block;
+    width: min(100%, 320px);
+    height: auto;
+    aspect-ratio: 5 / 4;
+    margin: 0 0 18px;
+    object-fit: cover;
+    object-position: 35% center;
+  }
+
+  .profile-links {
+    white-space: normal;
+  }
+}

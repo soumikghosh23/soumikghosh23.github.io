@@ -1,0 +1,62 @@
+- title: "Peaked quantum advantage using error correction"
+  links:
+    - label: Simons talk
+      url: "https://simons.berkeley.edu/events/peaked-quantum-advantage-using-error-correction"
+    - label: video
+      url: "https://www.youtube.com/watch?v=h0B-hulEjBc"
+  appearances:
+    - venue: "Quantum Summer Cluster Final Workshop, Simons Institute"
+      date: "July 2026"
+    - venue: "CS Theory Seminar, UT Austin"
+      date: "December 2025"
+    - venue: "CS Theory Seminar, University of Illinois Urbana-Champaign"
+      date: "October 2025"
+    - venue: "Quantum Seminar, MIT"
+      date: "October 2025"
+
+- title: "Quantum pseudoentanglement"
+  links:
+    - label: Simons talk
+      url: "https://simons.berkeley.edu/talks/soumik-ghosh-university-chicago-2024-03-22"
+  appearances:
+    - venue: "Tutorial, Kavli Institute for Theoretical Physics, UC Santa Barbara"
+      date: "August 2025"
+    - venue: "Many-Body Quantum Magic Workshop, IQuS, University of Washington"
+      date: "August 2025"
+    - venue: "Computer Science Theory Seminar, Columbia University"
+      date: "September 2024"
+    - venue: "Physics Seminar, University of Tokyo"
+      date: "July 2024"
+    - venue: "Quantum Reunion Workshop, Simons Institute"
+      date: "March 2024"
+    - venue: "Colloquium, Tata Institute of Fundamental Research"
+      date: "September 2023"
+    - venue: "Quantum Seminar, MIT"
+      date: "August 2023"
+    - venue: "DAMTP Seminar, University of Cambridge"
+      date: "July 2023"
+    - venue: "Quantum Colloquium, University of Maryland"
+      date: "March 2023"
+    - venue: "CS Theory Seminar, UT Austin"
+      date: "February 2023"
+
+- title: "Effect of non-unital noise on random-circuit sampling"
+  links:
+    - label: IBM Qiskit talk
+      url: "https://www.youtube.com/watch?v=GUNbq07YW54"
+  appearances:
+    - venue: "Qiskit Seminar, IBM"
+      date: "September 2024"
+
+- title: "Learning and cryptography with random circuits"
+  appearances:
+    - venue: "CS Theory Seminar, University of Washington"
+      date: "August 2025"
+    - venue: "Quantum Research Seminar, JPMorgan"
+      date: "July 2025"
+    - venue: "Seminar, Google Quantum"
+      date: "June 2025"
+    - venue: "Quantum Colloquium, CWI Amsterdam"
+      date: "March 2025"
+    - venue: "BIRS Workshop, Chennai Mathematical Institute"
+      date: "December 2024"

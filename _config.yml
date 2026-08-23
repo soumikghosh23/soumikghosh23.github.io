@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soumik Ghosh / Home"
+title                    : "Soumik Ghosh"
 title_separator          : "-"
 name                     : &name "Soumik Ghosh"
-description              : &description "personal description"
+description              : &description "Quantum computing researcher working across complexity theory, cryptography, and quantum advantage."
 url                      : https://soumikghosh23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "soumikghosh23/soumikghosh23.github.io"
@@ -57,23 +57,27 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "ghosh_quantum"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "og.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Soumik Ghosh"
+  links:
+    - "https://scholar.google.com/citations?user=QP_WbloAAAAJ&hl=en"
+    - "https://github.com/soumikghosh23"
+    - "https://www.linkedin.com/in/soumik-ghosh-307498b7"
+    - "https://twitter.com/ghosh_quantum"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,14 +85,14 @@ analytics:
 # Site Author
 author:
   name             : "Soumik Ghosh"
-  avatar           : "profile4.png"
-  bio              : "Ph.D. student in Computer Science | University of Chicago"
-  location         : "Chicago, Illinois, USA"
+  avatar           : "soumik-ghosh.jpg"
+  bio              : "Postdoctoral Researcher at MIT | Visiting Scholar at UC Berkeley"
+  location         : "Cambridge, Massachusetts, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QP_WbloAAAAJ&hl=en"
   linkedin         : "soumik-ghosh-307498b7"
-  email            : "soumikghosh@uchicago.edu"
+  email            : "soumik@mit.edu"
   researchgate     : #"https://www.researchgate.net/scientific-contributions/Soumik-Ghosh-2131749748"
   uri              :
   bitbucket        :
@@ -123,6 +127,7 @@ include:
   - _pages
   - files
 exclude:
+  - "**/.DS_Store"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -130,20 +135,65 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
+  - CHANGELOG.md
   - Capfile
+  - CONTRIBUTING.md
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
+  - LICENSE.md
   - README
+  - README.md
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
   - config
   - gulpfile.js
+  - markdown_generator
   - log
   - node_modules
   - package.json
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - files/CV_Soumik.pdf
+  - files/Ghosh_Soumik.pdf
+  - files/Saha_C_D_2020.pdf
+  - files/Slides.pdf
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/resume_chiranjib.pdf
+  - files/slide_defense.pdf
+  - images/3953273590_704e3899d5_m.jpg
+  - images/500x300.png
+  - images/bio-photo-2.jpg
+  - images/bio-photo.jpg
+  - images/browserconfig.xml
+  - images/editing-talk.png
+  - images/foo-bar-identity-th.jpg
+  - images/foo-bar-identity.jpg
+  - images/image-alignment-1200x4002.jpg
+  - images/image-alignment-150x150.jpg
+  - images/image-alignment-300x200.jpg
+  - images/image-alignment-580x300.jpg
+  - images/manifest.json
+  - images/mstile-144x144.png
+  - images/mstile-150x150.png
+  - images/mstile-310x150.png
+  - images/mstile-310x310.png
+  - images/mstile-70x70.png
+  - images/paragraph-indent.png
+  - images/paragraph-no-indent.png
+  - images/profile.png
+  - images/profile2.png
+  - images/profile3.png
+  - images/profile4.png
+  - images/safari-pinned-tab.svg
+  - images/site-logo.png
+  - images/wordcloud-3.png
   - tmp
   - vendor
 keep_files:
@@ -176,16 +226,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

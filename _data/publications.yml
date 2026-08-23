@@ -1,0 +1,192 @@
+- title: "Sampling hard circuits with verifiably high fidelity"
+  authors_html: "S. Martiel, J.-U. Chung, A. Seif, <strong>S. Ghosh</strong>, I. Hincks, A. Deshpande, B. Fefferman, J. M. Gambetta, and A. Javadi-Abhari"
+  venue_html: "arXiv, 2026"
+  media_html: 'Featured by <a href="https://www.wsj.com/cio-journal/ibm-claims-new-era-of-quantum-advantage-92e3d5d4">The Wall Street Journal</a>, <a href="https://news.uchicago.edu/story/ibm-uchicago-demonstrate-quantum-advantage-outperforming-traditional-computers-quantum">UChicago News</a>, and <a href="https://www.livescience.com/technology/quantum/ibm-scientists-claim-theyve-achieved-quantum-advantage-and-theyve-dared-others-to-prove-them-wrong">Live Science</a>.'
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2607.25941"
+
+- title: "Sample-efficient benchmarking of shallow all-to-all random quantum circuits"
+  authors_html: "G. Bentsen, B. Fefferman, <strong>S. Ghosh</strong>, M. J. Gullans, and Y. Liu"
+  venue_html: "arXiv, 2026"
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2605.22909"
+
+- title: "Noise-induced shallow circuits and the absence of barren plateaus"
+  authors_html: "A. A. Mele, A. Angrisani, <strong>S. Ghosh</strong>, S. Khatri, J. Eisert, D. S. França, and Y. Quek"
+  venue_html: "Nature Physics, 2026"
+  impact_lines:
+    - "Talk at TQC 2024."
+  links:
+    - label: paper
+      url: "https://www.nature.com/articles/s41567-026-03245-z"
+
+- title: "Digital signatures with classical shadows on near-term quantum computers"
+  authors_html: "P. Niroula, M. Liu, S. Omanakuttan, D. Amaro, S. Chakrabarti, <strong>S. Ghosh</strong>, Z. He, Y. Jin, et al."
+  venue_html: "arXiv, 2026"
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2602.04859"
+
+- title: "Online learning of a panoply of quantum objects"
+  authors_html: "A. Bansal, I. George, <strong>S. Ghosh</strong>, J. Sikora, and A. Zheng"
+  venue_html: "Quantum Machine Intelligence, 2025"
+  links:
+    - label: paper
+      url: "https://doi.org/10.1007/s42484-025-00300-5"
+
+- title: "Fast computational deep thermalization"
+  authors_html: "S. Chakraborty, S. Choi, <strong>S. Ghosh</strong>, and T. Giurgică-Tiron"
+  venue_html: "Physical Review Letters, 2025"
+  links:
+    - label: paper
+      url: "https://link.aps.org/doi/10.1103/g3qz-b2lv"
+
+- title: "Design boosters: from constant-time quantum chaos to ∞-designs and beyond"
+  authors_html: "<strong>S. Ghosh</strong>, A. Mirani, Y. Quek, and M. Xu"
+  venue_html: "arXiv, 2025"
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2511.08543"
+
+- title: "Random regular graph states are complex at almost any depth"
+  authors_html: "<strong>S. Ghosh</strong>, D. Hangleiter, and J. Helsen"
+  venue_html: "PRX Quantum, 2025"
+  links:
+    - label: paper
+      url: "https://link.aps.org/doi/10.1103/52xz-3hpc"
+
+- title: "Classical simulation of noisy random circuits from exponential decay of correlation"
+  authors_html: "S.-u. Lee, <strong>S. Ghosh</strong>, C. Oh, K. Noh, B. Fefferman, and L. Jiang"
+  venue_html: "arXiv, 2025"
+  impact_lines:
+    - "Talk at TQC 2026."
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2510.06328"
+
+- title: "Peaked quantum advantage using error correction"
+  authors_html: "A. Deshpande, B. Fefferman, <strong>S. Ghosh</strong>, M. Gullans, and D. Hangleiter"
+  venue_html: "arXiv, 2025"
+  impact_lines:
+    - "Invited workshop talk at FOCS 2025."
+    - 'Presented at the <a href="https://simons.berkeley.edu/events/peaked-quantum-advantage-using-error-correction">Simons Institute Quantum Summer Cluster Final Workshop</a>.'
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2510.05262"
+    - label: Simons talk
+      url: "https://simons.berkeley.edu/events/peaked-quantum-advantage-using-error-correction"
+
+- title: "Higher moment theory and learnability of bosonic states"
+  authors_html: "J. T. Iosue, Y.-X. Wang, I. Datta, <strong>S. Ghosh</strong>, C. Oh, B. Fefferman, and A. V. Gorshkov"
+  venue_html: "arXiv, 2025"
+  impact_lines:
+    - "Talk at TQC 2026."
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2510.01610"
+
+- title: "Unconditional Pseudorandomness against Shallow Quantum Circuits"
+  authors_html: "<strong>S. Ghosh</strong>, S. Subramanian, and W. Zhan"
+  venue_html: "arXiv, 2025"
+  impact_lines:
+    - "Talk at ITCS 2026."
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2507.18796"
+
+- title: "The Hardness of Learning Quantum Circuits and its Cryptographic Applications"
+  authors_html: "B. Fefferman, <strong>S. Ghosh</strong>, M. Sinha, and H. Yuen"
+  venue_html: "arXiv, 2025"
+  impact_lines:
+    - "Talks at QCTIP 2025 and ITCS 2026."
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2504.15343"
+
+- title: "Approximate t-Designs in Generic Circuit Architectures"
+  authors_html: "D. Belkin, J. Allen, <strong>S. Ghosh</strong>, C. Kang, S. Lin, J. Sud, F. T. Chong, B. Fefferman, and B. K. Clark"
+  venue_html: "PRX Quantum, 2024"
+  links:
+    - label: paper
+      url: "https://doi.org/10.1103/PRXQuantum.5.040344"
+
+- title: "On the complexity of sampling from shallow Brownian circuits"
+  authors_html: "G. Bentsen, B. Fefferman, <strong>S. Ghosh</strong>, M. J. Gullans, and Y. Liu"
+  venue_html: "arXiv, 2024"
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2411.04169"
+
+- title: "IQP computations with intermediate measurements"
+  authors_html: "R. Jozsa, <strong>S. Ghosh</strong>, and S. Strelchuk"
+  venue_html: "arXiv, 2024"
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2408.10093"
+
+- title: "Anti-Concentration for the Unitary Haar Measure and Applications to Random Quantum Circuits"
+  authors_html: "B. Fefferman, <strong>S. Ghosh</strong>, and W. Zhan"
+  venue_html: "arXiv, 2024"
+  impact_lines:
+    - "Talks at QIP 2025 and ITCS 2026."
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2407.19561"
+
+- title: "Effect of Nonunital Noise on Random-Circuit Sampling"
+  authors_html: "B. Fefferman, <strong>S. Ghosh</strong>, M. Gullans, K. Kuroiwa, and K. Sharma"
+  venue_html: "PRX Quantum, 2024"
+  impact_lines:
+    - "Talk at QIP 2024."
+  links:
+    - label: paper
+      url: "https://doi.org/10.1103/PRXQuantum.5.030317"
+    - label: IBM Qiskit talk
+      url: "https://www.youtube.com/watch?v=GUNbq07YW54"
+
+- title: "Public-Key Pseudoentanglement and the Hardness of Learning Ground State Entanglement Structure"
+  authors_html: "A. Bouland, B. Fefferman, <strong>S. Ghosh</strong>, T. Metger, U. Vazirani, C. Zhang, and Z. Zhou"
+  venue_html: "Computational Complexity Conference (CCC), 2024"
+  impact_lines:
+    - "Talk at QIP 2024."
+  links:
+    - label: paper
+      url: "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CCC.2024.21"
+
+- title: "Pseudomagic Quantum States"
+  authors_html: "A. Gu, L. Leone, <strong>S. Ghosh</strong>, J. Eisert, S. F. Yelin, and Y. Quek"
+  venue_html: "Physical Review Letters, 2024"
+  impact_lines:
+    - "Editor's Choice at Physical Review Letters."
+  links:
+    - label: paper
+      url: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.210602"
+
+- title: "Quantum Pseudoentanglement"
+  authors_html: "S. Aaronson, A. Bouland, B. Fefferman, <strong>S. Ghosh</strong>, U. Vazirani, C. Zhang, and Z. Zhou"
+  venue_html: "Innovations in Theoretical Computer Science (ITCS), 2024"
+  impact_lines:
+    - "Talk at QIP 2023."
+    - 'Invited to a <a href="https://www.youtube.com/watch?v=XAXpPJmnMYg&amp;t=2s">Quantum Colloquium at the Simons Institute</a>.'
+  links:
+    - label: paper
+      url: "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.2"
+    - label: Simons talk
+      url: "https://www.youtube.com/watch?v=XAXpPJmnMYg&t=2s"
+
+- title: "Complexity Phase Transitions Generated by Entanglement"
+  authors_html: "<strong>S. Ghosh</strong>, A. Deshpande, D. Hangleiter, A. V. Gorshkov, and B. Fefferman"
+  venue_html: "Physical Review Letters, 2023"
+  media_html: 'Featured by <a href="https://www.quantamagazine.org/the-quest-to-quantify-quantumness-20231019/">Quanta Magazine</a>, <a href="https://cs.uchicago.edu/news/uchicago-scientists-make-new-discovery-proving-entanglement-is-responsible-for-computational-hardness-in-quantum-systems/">UChicago CS News</a>, and <a href="https://thequantuminsider.com/2023/07/28/uchicago-scientists-show-entanglement-is-responsible-for-computational-hardness-in-quantum-systems/">The Quantum Insider</a>.'
+  links:
+    - label: paper
+      url: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.030601"
+
+- title: "Complexity Limitations on One-turn Quantum Refereed Games"
+  authors_html: "<strong>S. Ghosh</strong> and J. Watrous"
+  venue_html: "Theory of Computing Systems, 2023"
+  links:
+    - label: paper
+      url: "https://arxiv.org/abs/2002.01509"
