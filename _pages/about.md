@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 <header class="profile-intro">
-  <img class="profile-portrait" src="/images/soumik-ghosh.jpg" alt="Soumik Ghosh" width="210" height="252">
+  <img class="profile-portrait" src="/images/soumik-ghosh-no-vase.png" alt="Soumik Ghosh" width="1537" height="1023">
 
   <h1 itemprop="name">Soumik Ghosh</h1>
 
   <p>I am jointly a <strong>Postdoctoral Researcher at MIT</strong> and a <strong>Visiting Scholar at UC Berkeley</strong>, hosted by <a href="https://people.eecs.berkeley.edu/~vazirani/">Umesh Vazirani</a>.</p>
 
-  <p>My research aims to use complexity theory to solve interesting problems in quantum physics and quantum computation.</p>
+  <p>My research aims to use complexity theory to solve interesting problems in quantum computation and quantum physics.</p>
 
   <p class="profile-contact">Contact: <a href="mailto:soumik@mit.edu" itemprop="email">soumik@mit.edu</a>, <a href="mailto:soumikghosh@berkeley.edu">soumikghosh@berkeley.edu</a></p>
 

@@ -171,6 +171,7 @@
   venue_html: '<a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.2">ITCS 2024</a>, <a href="https://indico.cern.ch/event/1175020/">QIP 2023</a>'
   impact_lines:
     - "Talk at QIP 2023."
+    - "Invited talk at the APS March Meeting 2026."
     - 'Invited to a <a href="https://www.youtube.com/watch?v=XAXpPJmnMYg&amp;t=2s">Quantum Colloquium at the Simons Institute</a>.'
   links:
     - label: paper
