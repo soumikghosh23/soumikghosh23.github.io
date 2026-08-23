@@ -24,7 +24,8 @@ redirect_from:
 <section class="profile-overview" aria-label="Background and outreach">
   <div>
     <h2>Background</h2>
-    <p>I received my Ph.D. in Computer Science from the <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by <a href="https://www.billfefferman.com/">Bill Fefferman</a> and was an <a href="https://cs.uchicago.edu/news/bridging-physics-and-cs-a-conversation-with-our-latest-ibm-phd-fellow-soumik-ghosh/">IBM Ph.D. Fellow</a>. Previously, I earned an M.Math. in Computer Science from the <a href="https://uwaterloo.ca/">University of Waterloo</a>, advised by <a href="https://jhwatrous.github.io/">John Watrous</a>, and a B.E. in Electronics Engineering from <a href="https://jadavpuruniversity.in/">Jadavpur University</a>.</p>
+    <p>I received my Ph.D. in Computer Science from the <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by <a href="https://www.billfefferman.com/">Bill Fefferman</a> and was an <a href="https://cs.uchicago.edu/news/bridging-physics-and-cs-a-conversation-with-our-latest-ibm-phd-fellow-soumik-ghosh/">IBM Ph.D. Fellow</a>.</p>
+    <p>Previously, I earned an M.Math. in Computer Science from the <a href="https://uwaterloo.ca/">University of Waterloo</a>, advised by <a href="https://jhwatrous.github.io/">John Watrous</a>, and a B.E. in Electronics Engineering from <a href="https://jadavpuruniversity.in/">Jadavpur University</a>.</p>
   </div>
 
   <div>
