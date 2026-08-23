@@ -22,8 +22,8 @@
   authors_html: "A. Deshpande, B. Fefferman, <strong>S. Ghosh</strong>, M. Gullans, and D. Hangleiter"
   venue_html: "arXiv, 2025"
   impact_lines:
-    - "Invited workshop talk at FOCS 2025."
     - 'Presented at the <a href="https://simons.berkeley.edu/events/peaked-quantum-advantage-using-error-correction">Simons Institute Quantum Summer Cluster Final Workshop</a>.'
+  media_html: 'Discussed on <a href="https://scottaaronson.blog/?p=9325">Shtetl-Optimized</a>.'
   links:
     - label: paper
       url: "https://arxiv.org/abs/2510.05262"
@@ -48,3 +48,21 @@
       url: "https://doi.org/10.1103/PRXQuantum.5.030317"
     - label: IBM Qiskit talk
       url: "https://www.youtube.com/watch?v=GUNbq07YW54"
+
+- title: "Pseudomagic Quantum States"
+  authors_html: "A. Gu, L. Leone, <strong>S. Ghosh</strong>, J. Eisert, S. F. Yelin, and Y. Quek"
+  venue_html: "Physical Review Letters, 2024"
+  impact_lines:
+    - "Editor's Choice at Physical Review Letters."
+  links:
+    - label: paper
+      url: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.210602"
+
+- title: "Noise-induced shallow circuits and the absence of barren plateaus"
+  authors_html: "A. A. Mele, A. Angrisani, <strong>S. Ghosh</strong>, S. Khatri, J. Eisert, D. S. França, and Y. Quek"
+  venue_html: "Nature Physics, 2026"
+  impact_lines:
+    - "Talk at TQC 2024."
+  links:
+    - label: paper
+      url: "https://www.nature.com/articles/s41567-026-03245-z"

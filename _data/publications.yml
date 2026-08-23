@@ -39,6 +39,7 @@
 - title: "Fast computational deep thermalization"
   authors_html: "S. Chakraborty, S. Choi, <strong>S. Ghosh</strong>, and T. Giurgică-Tiron"
   venue_html: "Physical Review Letters, 2025"
+  media_html: 'News coverage: <a href="https://www.deccanchronicle.com/science/iiith-prof-shows-how-simple-quantum-circuits-spoof-thermalization-1919742">Deccan Chronicle</a>, <a href="https://www.dqindia.com/esdm/iiith-research-reveals-quantum-thermal-behavior-can-emerge-from-low-complexity-dynamics-10813684">DataQuest</a>, <a href="https://hyderabadmail.com/iiith-professor-quantum-thermalization-study-2025/">Hyderabad Mail</a>, and <a href="https://www.news9live.com/science/quantum-thermalisation-may-be-faster-cheaper-than-previously-believed-2907514">News9</a>.'
   links:
     - label: paper
       url: "https://link.aps.org/doi/10.1103/g3qz-b2lv"
@@ -70,8 +71,8 @@
   authors_html: "A. Deshpande, B. Fefferman, <strong>S. Ghosh</strong>, M. Gullans, and D. Hangleiter"
   venue_html: "arXiv, 2025"
   impact_lines:
-    - "Invited workshop talk at FOCS 2025."
     - 'Presented at the <a href="https://simons.berkeley.edu/events/peaked-quantum-advantage-using-error-correction">Simons Institute Quantum Summer Cluster Final Workshop</a>.'
+  media_html: 'Discussed on <a href="https://scottaaronson.blog/?p=9325">Shtetl-Optimized</a>.'
   links:
     - label: paper
       url: "https://arxiv.org/abs/2510.05262"
@@ -101,6 +102,7 @@
   venue_html: "arXiv, 2025"
   impact_lines:
     - "Talks at QCTIP 2025 and ITCS 2026."
+  media_html: 'Featured by <a href="https://www.newscientist.com/article/2478357-quantum-computers-could-protect-our-data-from-quantum-computers/">New Scientist</a>.'
   links:
     - label: paper
       url: "https://arxiv.org/abs/2504.15343"
@@ -137,7 +139,7 @@
 
 - title: "Effect of Nonunital Noise on Random-Circuit Sampling"
   authors_html: "B. Fefferman, <strong>S. Ghosh</strong>, M. Gullans, K. Kuroiwa, and K. Sharma"
-  venue_html: "PRX Quantum, 2024"
+  venue_html: '<a href="https://doi.org/10.1103/PRXQuantum.5.030317">PRX Quantum, 2024</a>, <a href="https://qipconference.org/2024/index.html">QIP 2024</a>'
   impact_lines:
     - "Talk at QIP 2024."
   links:
@@ -166,7 +168,7 @@
 
 - title: "Quantum Pseudoentanglement"
   authors_html: "S. Aaronson, A. Bouland, B. Fefferman, <strong>S. Ghosh</strong>, U. Vazirani, C. Zhang, and Z. Zhou"
-  venue_html: "Innovations in Theoretical Computer Science (ITCS), 2024"
+  venue_html: '<a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.2">ITCS 2024</a>, <a href="https://indico.cern.ch/event/1175020/">QIP 2023</a>'
   impact_lines:
     - "Talk at QIP 2023."
     - 'Invited to a <a href="https://www.youtube.com/watch?v=XAXpPJmnMYg&amp;t=2s">Quantum Colloquium at the Simons Institute</a>.'

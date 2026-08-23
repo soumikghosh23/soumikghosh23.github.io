@@ -42,7 +42,7 @@
       <li>
         <p class="talk-title">{{ talk.title }}{% if talk.links %}&nbsp;<span class="talk-links">{% for link in talk.links %}<a href="{{ link.url }}">[{{ link.label }}]</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}</span>{% endif %}</p>
         <div class="talk-appearances">
-          {% for appearance in talk.appearances %}<p>{{ appearance.venue }} <span class="talk-date">({{ appearance.date }})</span></p>{% endfor %}
+          {% for appearance in talk.appearances %}<p>{% if appearance.url %}<a href="{{ appearance.url }}">{{ appearance.venue }}</a>{% else %}{{ appearance.venue }}{% endif %}{% if appearance.date %} <span class="talk-date">({{ appearance.date }})</span>{% endif %}</p>{% endfor %}
         </div>
       </li>
     {% endfor %}
