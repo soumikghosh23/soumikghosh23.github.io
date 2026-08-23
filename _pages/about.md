@@ -8,32 +8,27 @@ redirect_from:
 ---
 
 <header class="profile-intro">
-  <div class="profile-portrait-frame">
-    <img class="profile-portrait" src="/images/soumik-ghosh.jpg" alt="Soumik Ghosh" width="1024" height="682">
-  </div>
+  <img class="profile-portrait" src="/images/soumik-ghosh.jpg" alt="Soumik Ghosh" width="210" height="252">
 
-  <div class="profile-intro__copy">
-    <p class="profile-eyebrow">Quantum computing · complexity · cryptography</p>
-    <h1 itemprop="name">Soumik Ghosh</h1>
+  <h1 itemprop="name">Soumik Ghosh</h1>
 
-    <p>I am jointly a <strong>Postdoctoral Researcher at MIT</strong> and a <strong>Visiting Scholar at UC Berkeley</strong>, hosted by <a href="https://people.eecs.berkeley.edu/~vazirani/">Umesh Vazirani</a>.</p>
+  <p>I am jointly a <strong>Postdoctoral Researcher at MIT</strong> and a <strong>Visiting Scholar at UC Berkeley</strong>, hosted by <a href="https://people.eecs.berkeley.edu/~vazirani/">Umesh Vazirani</a>.</p>
 
-    <p>My research spans quantum computing, with a focus on quantum complexity theory, algorithms, near-term quantum computation, and quantum cryptography.</p>
+  <p>My research spans quantum computing, with a focus on quantum complexity theory, algorithms, near-term quantum computation, and quantum cryptography.</p>
 
-    <p class="profile-contact"><span>Contact</span> <a href="mailto:soumik@mit.edu" itemprop="email">soumik@mit.edu</a> · <a href="mailto:soumikghosh@berkeley.edu">soumikghosh@berkeley.edu</a></p>
+  <p class="profile-contact">Contact: <a href="mailto:soumik@mit.edu" itemprop="email">soumik@mit.edu</a>, <a href="mailto:soumikghosh@berkeley.edu">soumikghosh@berkeley.edu</a></p>
 
-    <p class="profile-links"><a href="/files/CV.pdf">CV</a> <a href="https://scholar.google.com/citations?user=QP_WbloAAAAJ&amp;hl=en">Google Scholar</a> <a href="https://github.com/soumikghosh23">GitHub</a> <a href="https://www.linkedin.com/in/soumik-ghosh-307498b7">LinkedIn</a></p>
-  </div>
+  <p class="profile-links"><a href="/files/CV.pdf">[CV]</a> <a href="https://scholar.google.com/citations?user=QP_WbloAAAAJ&amp;hl=en">[Google Scholar]</a> <a href="https://github.com/soumikghosh23">[GitHub]</a> <a href="https://www.linkedin.com/in/soumik-ghosh-307498b7">[LinkedIn]</a></p>
 </header>
 
 <section class="profile-overview" aria-label="Background and outreach">
   <div>
-    <h2 class="profile-overview__title">Background</h2>
+    <h2>Background</h2>
     <p>I received my Ph.D. in Computer Science from the <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by <a href="https://www.billfefferman.com/">Bill Fefferman</a> and was an <a href="https://cs.uchicago.edu/news/bridging-physics-and-cs-a-conversation-with-our-latest-ibm-phd-fellow-soumik-ghosh/">IBM Ph.D. Fellow</a>. Previously, I earned an M.Math. in Computer Science from the <a href="https://uwaterloo.ca/">University of Waterloo</a>, advised by <a href="https://jhwatrous.github.io/">John Watrous</a>, and a B.E. in Electronics Engineering from <a href="https://jadavpuruniversity.in/">Jadavpur University</a>.</p>
   </div>
 
   <div>
-    <h2 class="profile-overview__title">Outreach</h2>
+    <h2>Outreach</h2>
     <p>I am part of <a href="https://bigyan.org.in/">Bigyan</a>, a science outreach group that works to make science accessible in the Bengali language.</p>
     <p>I am also involved with <a href="https://framebengal.com/">FRAME</a>, a 501(c)(3) nonprofit organization aiming to provide research mentorship to science students in India.</p>
   </div>

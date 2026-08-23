@@ -1,6 +1,6 @@
 <section aria-labelledby="selected-publications">
   <h2 id="selected-publications">Selected Publications</h2>
-  <p class="section-note">Author order is typically alphabetical in theoretical computer science.</p>
+  <p>Author order is typically alphabetical in theoretical computer science.</p>
 
   <ol class="publication-list publication-list--selected">
     {% for publication in site.data.selected_publications %}
@@ -10,7 +10,7 @@
         <p class="publication-venue">{{ publication.venue_html }}</p>
         {% for impact in publication.impact_lines %}<p class="publication-impact">{{ impact }}</p>{% endfor %}
         {% if publication.media_html %}<p class="publication-media">{{ publication.media_html }}</p>{% endif %}
-        <p class="publication-links">{% for link in publication.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}</p>
+        <p class="publication-links">{% for link in publication.links %}<a href="{{ link.url }}">[{{ link.label }}]</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}</p>
       </li>
     {% endfor %}
   </ol>
@@ -18,7 +18,7 @@
 
 <section aria-labelledby="all-papers">
   <h2 id="all-papers">All Papers</h2>
-  <p class="section-note">Newest first.</p>
+  <p>Newest first.</p>
 
   <ol class="publication-list">
     {% for publication in site.data.publications %}
@@ -28,7 +28,7 @@
         <p class="publication-venue">{{ publication.venue_html }}</p>
         {% for impact in publication.impact_lines %}<p class="publication-impact">{{ impact }}</p>{% endfor %}
         {% if publication.media_html %}<p class="publication-media">{{ publication.media_html }}</p>{% endif %}
-        <p class="publication-links">{% for link in publication.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}</p>
+        <p class="publication-links">{% for link in publication.links %}<a href="{{ link.url }}">[{{ link.label }}]</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}</p>
       </li>
     {% endfor %}
   </ol>
@@ -40,7 +40,7 @@
   <ol class="talk-list">
     {% for talk in site.data.talks %}
       <li>
-        <p class="talk-title">{{ talk.title }}{% if talk.links %}&nbsp;<span class="talk-links">{% for link in talk.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}</span>{% endif %}</p>
+        <p class="talk-title">{{ talk.title }}{% if talk.links %}&nbsp;<span class="talk-links">{% for link in talk.links %}<a href="{{ link.url }}">[{{ link.label }}]</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}</span>{% endif %}</p>
         <div class="talk-appearances">
           {% for appearance in talk.appearances %}<p>{% if appearance.url %}<a href="{{ appearance.url }}">{{ appearance.venue }}</a>{% else %}{{ appearance.venue }}{% endif %}{% if appearance.date %} <span class="talk-date">({{ appearance.date }})</span>{% endif %}</p>{% endfor %}
         </div>
@@ -51,5 +51,5 @@
 
 <section aria-labelledby="service">
   <h2 id="service">Service</h2>
-  <p>I have served on the program committee for QIP 2027.</p>
+  <p>I am on the program committee for QIP 2027.</p>
 </section>
