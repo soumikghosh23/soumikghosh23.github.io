@@ -136,6 +136,13 @@ body.profile-site {
   font-weight: 400;
 }
 
+.profile-highlight,
+.profile-highlight a,
+.profile-highlight a:visited {
+  color: var(--profile-accent);
+  font-weight: 400;
+}
+
 .profile-portrait {
   float: right;
   width: 210px;

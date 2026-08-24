@@ -1,11 +1,7 @@
 - title: "Peaked quantum advantage using error correction"
-  links:
-    - label: Simons talk
-      url: "https://simons.berkeley.edu/events/peaked-quantum-advantage-using-error-correction"
-    - label: video
-      url: "https://www.youtube.com/watch?v=h0B-hulEjBc"
   appearances:
     - venue: "Quantum Summer Cluster Final Workshop, Simons Institute"
+      url: "https://www.youtube.com/watch?v=h0B-hulEjBc"
       date: "July 2026"
     - venue: "Invited talk, IQC Math & CS Seminar, University of Waterloo"
       date: "January 2026"
@@ -17,9 +13,6 @@
       date: "October 2025"
 
 - title: "Quantum pseudoentanglement"
-  links:
-    - label: Simons talk
-      url: "https://simons.berkeley.edu/talks/soumik-ghosh-university-chicago-2024-03-22"
   appearances:
     - venue: "Invited talk, APS March Meeting 2026"
     - venue: "Tutorial, Kavli Institute for Theoretical Physics, UC Santa Barbara"
@@ -31,6 +24,7 @@
     - venue: "Physics Seminar, University of Tokyo"
       date: "July 2024"
     - venue: "Quantum Reunion Workshop, Simons Institute"
+      url: "https://www.youtube.com/watch?v=XAXpPJmnMYg&t=2s"
       date: "March 2024"
     - venue: "Colloquium, Tata Institute of Fundamental Research"
       date: "September 2023"
