@@ -18,7 +18,7 @@ redirect_from:
 
   <p class="profile-contact">Contact: <a href="mailto:soumik@mit.edu" itemprop="email">soumik@mit.edu</a>, <a href="mailto:soumikghosh@berkeley.edu">soumikghosh@berkeley.edu</a></p>
 
-  <p class="profile-links"><a href="/files/CV.pdf">[CV]</a> <a href="https://scholar.google.com/citations?user=QP_WbloAAAAJ&amp;hl=en">[Google Scholar]</a> <a href="https://www.linkedin.com/in/soumik-ghosh-307498b7">[LinkedIn]</a></p>
+  <p class="profile-links"><a href="/files/CV.pdf">[CV]</a> <a href="https://scholar.google.com/citations?user=QP_WbloAAAAJ&amp;hl=en">[Google Scholar]</a> <a href="https://www.linkedin.com/in/soumik-ghosh-307498b7">[LinkedIn]</a> <a href="https://x.com/soumik375">[X]</a></p>
 </header>
 
 <section class="profile-overview" aria-label="Background and outreach">
