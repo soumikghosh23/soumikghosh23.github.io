@@ -1,7 +1,6 @@
 - title: "Peaked quantum advantage using error correction"
   appearances:
     - venue: "Quantum Summer Cluster Final Workshop, Simons Institute"
-      url: "https://www.youtube.com/watch?v=h0B-hulEjBc"
       date: "July 2026"
     - venue: "Invited talk, IQC Math & CS Seminar, University of Waterloo"
       date: "January 2026"
@@ -24,7 +23,6 @@
     - venue: "Physics Seminar, University of Tokyo"
       date: "July 2024"
     - venue: "Quantum Reunion Workshop, Simons Institute"
-      url: "https://www.youtube.com/watch?v=XAXpPJmnMYg&t=2s"
       date: "March 2024"
     - venue: "Colloquium, Tata Institute of Fundamental Research"
       date: "September 2023"
@@ -38,9 +36,6 @@
       date: "February 2023"
 
 - title: "Effect of non-unital noise on random-circuit sampling"
-  links:
-    - label: IBM Qiskit talk
-      url: "https://www.youtube.com/watch?v=GUNbq07YW54"
   appearances:
     - venue: "Invited talk, IQC Quantum Seminar, University of Waterloo"
     - venue: "Qiskit Seminar, IBM"
