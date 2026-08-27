@@ -37,7 +37,7 @@
 
 - title: "Effect of Nonunital Noise on Random-Circuit Sampling"
   authors_html: "B. Fefferman, <strong>S. Ghosh</strong>, M. Gullans, K. Kuroiwa, and K. Sharma"
-  venue_html: '<a href="https://doi.org/10.1103/PRXQuantum.5.030317">PRX Quantum, 2024</a>, <a href="https://qipconference.org/2024/index.html">QIP 2024</a>'
+  venue_html: "PRX Quantum, 2024"
   impact_lines:
     - "Talk at QIP 2024."
   links:
